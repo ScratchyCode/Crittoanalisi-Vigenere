@@ -18,4 +18,4 @@ Alla fine si individua l'ipotesi per la quale il chi quadro è minimo e quindi l
 Questo lavoro viene ripetuto per ogni colonna e alla fine si ottiene un'ipotesi completa per la chiave; se essa è una parola o frase riconoscibile della lingua si è certi di aver forzato il messaggio.
 
 
-Se il messaggio ha senso compiuto il gioco è fatto; se no si prova con un altro valore di n.
+Se il messaggio ha senso compiuto il gioco è fatto, altrimenti si prova con un altro valore di N.
